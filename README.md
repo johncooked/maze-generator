@@ -25,7 +25,7 @@ This project aims to provide a tool for generating mazes for various purposes, s
     - Locate the run button, typically in the top-right corner of the IDE or directly in the MazeEditor class.
     - Start the program by clicking the run button.
     - Click the generate button on the right pane to randomly generate mazes.
-    - You can change the dimensions of the maze by changing the values of the 2 inputs. It starts at 100x100
+    - You can change the dimensions of the maze by changing the values of the 2 inputs. It starts at 100x100.
     - You can toggle the solution, to turn on or off the solution path. 
 
 ## Issues
